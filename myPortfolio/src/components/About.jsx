@@ -6,7 +6,7 @@ import { MdMarkEmailUnread } from "react-icons/md";
 import Tilt from "react-parallax-tilt";
 
 // // IMAGE
-import komalBelge from '../assets/Komal.jpg'
+import komalBelge from '../assets/komal.jpg'
 
 
 export default function About() {
