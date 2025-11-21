@@ -9,7 +9,7 @@ import { IoMdLink } from "react-icons/io";
 
 // PROJECT - IMAGES =================================
 import bg1 from "../assets/x-clone.png";
-import bg2 from "../assets/Wonderlust.png";
+import bg2 from "../assets/wonderlust.png";
 import bg3 from "../assets/weather-app.png";
 
 export default function Projects() {
